@@ -31,28 +31,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://https://github.com/VgsStudio/CaronApp_front"><b>CaronApp 🚗</b></a></td>
+      <td><a href="https://github.com/VgsStudio/CaronApp_front"><b>CaronApp 🚗</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/VgsStudio/CaronApp_front?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/VgsStudio/CaronApp_front?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/VgsStudio/CaronApp_front?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VgsStudio/CaronApp_front?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://https://github.com/LuigiTrevisan/MySingingMonstersBreeder"><b>MySingingMonstersBreeder</b></a></td>
+      <td><a href="https://github.com/LuigiTrevisan/MySingingMonstersBreeder"><b>MySingingMonstersBreeder</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://https://github.com/Rodrigosiq03/CafeteriaJS"><b>CafeteriaJS ☕</b></a></td>
+      <td><a href="https://github.com/Rodrigosiq03/CafeteriaJS"><b>CafeteriaJS ☕</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://https://github.com/LuigiTrevisan/LogiQuiz"><b>LogiQuiz</b></a></td>
+      <td><a href="https://github.com/LuigiTrevisan/LogiQuiz"><b>LogiQuiz</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
