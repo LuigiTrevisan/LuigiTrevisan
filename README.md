@@ -63,6 +63,7 @@
   </tbody>
 </table>
 
+  <h3> <a href="https://github.com/LuigiTrevisan/Certificados"> Meus certificados </a> </h3>
 <h3>Onde me encontrar:</h3>
 <p>
 <a href="https://www.linkedin.com/in/luigi-trevisan" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
