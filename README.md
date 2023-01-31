@@ -1,6 +1,7 @@
 <h1>Olá, bem vindo ao meu perfil 👋</h1>
 
-<p>Eu sou Luigi, um estudante de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>Suzano, Brasil</b> atualmente morando em <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>São Bernardo do Campo, Brasil.</b></p>
+<p>Eu sou Luigi, um estudante de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>Suzano, Brasil</b> atualmente morando em <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>São Bernardo do Campo, Brasil.</b> </p>
+<p>Estou no <b>2°</b> ano de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
 <h3> Linguagens que trabalho/estudo:</h3>
 
