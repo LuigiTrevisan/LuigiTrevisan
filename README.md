@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-<h3> Projetos que contribuí:
+<h3> Alguns projetos que contribuí:
 
 <table>
   <thead align="center">
@@ -58,8 +58,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
-    
+    <tr>
+      <td><a href="https://github.com/Maua-Dev/port_mss_action"><b>port_mss_action</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
