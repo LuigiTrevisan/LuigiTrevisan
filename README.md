@@ -38,7 +38,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VgsStudio/CaronApp_front?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/LuigiTrevisan/MySingingMonstersBreeder"><b>MySingingMonstersBreeder</b></a></td>
+      <td><a href="https://github.com/LuigiTrevisan/MySingingMonstersBreeder"><b>MySingingMonstersBreeder 🥚</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
@@ -52,14 +52,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/LuigiTrevisan/LogiQuiz"><b>LogiQuiz</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/LogiQuiz?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/LuigiTrevisan/notemaua-mss-withdraw/"><b>notemaua-mss-withdraw 💻</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Maua-Dev/port_mss_action"><b>port_mss_action</b></a></td>
+      <td><a href="https://github.com/Maua-Dev/port_mss_action"><b>port_mss_action 🛣️</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Maua-Dev/port_mss_action?style=flat-square&labelColor=343b41"/></td>
