@@ -1,7 +1,7 @@
 <h1>Olá, bem vindo ao meu perfil 👋</h1>
 
 <p>Eu sou Luigi, um estudante de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>Suzano, Brasil</b> atualmente morando em <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>São Bernardo do Campo, Brasil.</b> </p>
-<p>Estou no <b>6°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
+<p>Estou no <b>5°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
 <h3> Linguagens que trabalho/estudo:</h3>
 
@@ -45,11 +45,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/MySingingMonstersBreeder?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Rodrigosiq03/CafeteriaJS"><b>CafeteriaJS ☕</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/LuigiTrevisan/Personal-Scripts"><b>Personal Scripts👤</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/LuigiTrevisan/Personal-Scripts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/LuigiTrevisan/Personal-Scripts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/LuigiTrevisan/Personal-Scripts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LuigiTrevisan/Personal-Scripts?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/LuigiTrevisan/notemaua-mss-withdraw/"><b>notemaua-mss-withdraw 💻</b></a></td>
