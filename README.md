@@ -3,19 +3,6 @@
 <p>Eu sou Luigi, um estudante de <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>Suzano, Brasil</b> atualmente morando em <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width=13> <b>São Bernardo do Campo, Brasil.</b> </p>
 <p>Estou no <b>6°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
-<h3> Linguagens que trabalho/estudo:</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-</p>
 
 <h3> Alguns projetos que contribuí:
 
